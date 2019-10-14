@@ -47,7 +47,9 @@ $ ./criterionSetup.sh
 ```
 This will run all the necesary commands to install and compile Criterion.
 *Note: It is possible that some dependecies will not be installed. These will need to be installed.*
+
 *Note 2: This can take some time to completely run.*
+
 *Note 3: In the event that this file finishes with an error run the following commands.*
 ```
 $ git clone --recursive https://github.com/Snaipe/Criterion
