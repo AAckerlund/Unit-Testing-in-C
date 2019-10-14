@@ -46,8 +46,10 @@ Bazz
 $ ./criterionSetup.sh
 ```
 This will run all the necesary commands to install and compile Criterion.
-*Note: It is possible that some dependecies will not be installed. These will need to be installed
-*Note 2: This can take some time to completely run
+*Note: It is possible that some dependecies will not be installed. These will need to be installed.*
+
+*Note 2: This can take some time to completely run.*
+
 *Note 3: In the event that this file finishes with an error run the following commands.*
 ```
 $ git clone --recursive https://github.com/Snaipe/Criterion
@@ -60,7 +62,7 @@ $ sudo make install
 
 ```
 *The above commands are the main contents of criterionSetup.sh except they are prefaced with sudo where appropriate.*
-*Now setup the unit test by doing
+*Now setup the unit test by doing.*
 
 ```
 $ ./setupUnitTest.sh
