@@ -61,7 +61,8 @@ $ sudo cmake --build .
 $ sudo make install
 
 ```
-If cmake is not installed follow the tutorial here[https://cgold.readthedocs.io/en/latest/first-step/installation.html] for instructions on installing it.
+If cmake is not, instructions for installing it can be found at https://cgold.readthedocs.io/en/latest/first-step/installation.html.
+
 Now setup the unit test by doing.
 
 ```
