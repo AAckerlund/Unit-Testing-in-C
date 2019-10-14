@@ -61,8 +61,8 @@ $ sudo cmake --build .
 $ sudo make install
 
 ```
-*The above commands are the main contents of criterionSetup.sh except they are prefaced with sudo where appropriate.*
-*Now setup the unit test by doing.*
+If cmake is not installed follow the tutorial here[https://cgold.readthedocs.io/en/latest/first-step/installation.html] for instructions on installing it.
+Now setup the unit test by doing.
 
 ```
 $ ./setupUnitTest.sh
